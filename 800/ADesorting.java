@@ -24,5 +24,6 @@ public class ADesorting {
             if(alreadyUnsorted) System.out.println(0);
             else System.out.println(count);
         }
+        sc.close();
     }
 }
